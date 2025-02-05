@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a web developer
 --------------------
 
-I've learning code last year in many online platform and programming hero. Now i am looking for making some projects and continue my learning about more details.
+I've learning code last year in many online platform and programming hero. Now i am trying for making some projects and continue my learning to know more about web design and development.
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [mahmudurr819@gmail.com](mailto:mahmudurr819@gmail.com)
